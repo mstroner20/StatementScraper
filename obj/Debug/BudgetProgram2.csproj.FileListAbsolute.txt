@@ -1,0 +1,13 @@
+D:\Projects\BudgetProgram2\BudgetProgram2\bin\Debug\BudgetProgram2.exe.config
+D:\Projects\BudgetProgram2\BudgetProgram2\bin\Debug\BudgetProgram2.exe
+D:\Projects\BudgetProgram2\BudgetProgram2\bin\Debug\BudgetProgram2.pdb
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.csprojAssemblyReference.cache
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.Form1.resources
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.Properties.Resources.resources
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.csproj.GenerateResource.cache
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.exe
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.pdb
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.AddStatementsForm.resources
+D:\Projects\BudgetProgram2\BudgetProgram2\bin\Debug\LiteDB.dll
+D:\Projects\BudgetProgram2\BudgetProgram2\bin\Debug\LiteDB.xml
+D:\Projects\BudgetProgram2\BudgetProgram2\obj\Debug\BudgetProgram2.csproj.CopyComplete
