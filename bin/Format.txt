@@ -1,6 +1,0 @@
-05/01 Card Purchase With Pin "Location" 8681 $18.00
-										^^^^
-										Pin must be before final price 
-	  ^^^^^^^^^^^^^
-	  Doesn't matter
-	  Only the date before it matters
